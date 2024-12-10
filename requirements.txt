@@ -1,0 +1,16 @@
+streamlit
+torch
+pretty_midi
+langchain
+openai
+langgraph
+faiss-cpu
+tqdm 
+requests
+matplotlib
+langchain-community
+langchain-openai
+python-dotenv
+pypdf
+tiktoken
+midi2audio

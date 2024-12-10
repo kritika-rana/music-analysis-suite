@@ -1,0 +1,6 @@
+.env
+data/midi/
+*.log
+.venv/*
+models/__pycache__
+data/soundfonts
